@@ -2,6 +2,8 @@
 
 ## Usage:  `python3 main.py <search+item>`
 
+- It is recommended to use a Python virtual environment
+
 ### Required Packages:
 
 ```
